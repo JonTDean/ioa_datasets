@@ -1,0 +1,19 @@
+Analysis Component,Result
+Dataset Size,"10,500 samples"
+Embedding Dimension,768 dimensions
+Subsample Size (PH),"2,000 samples"
+PCA Reduction (99%),68 dimensions
+,
+TwoNN Intrinsic Dim,6.71
+PCA 95% Variance Dims,25
+PCA 99% Variance Dims,69
+,
+H0 Total Features,"1,999"
+H0 Significant (>0.169),6
+H0 Expected (Personas),7
+H0 Match Status,Near Match (-1)
+,
+H1 Total Features,"2,019"
+H1 Significant (>0.042),1
+H1 Expected (Minimal),~0
+H1 Match Status,Confirmed
